@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Notes"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rchurro/dubs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -49,3 +54,8 @@ title: "POST TITLE"
 date: YYYY-MM-DD hh:mm:ss -0000
 categories: CATEGORY-1 CATEGORY-2
 ```
+
+### Useful links about jekyll
+https://michaelsoolee.com/jekyll-post-pag
+https://davan690.github.io/2022-02-08-jekyll-information/
+https://ddewaele.github.io/running-jekyll-in-docker/
