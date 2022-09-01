@@ -1,8 +1,8 @@
--
+---
 layout: post
 title: "I'm shopping to replace my homelab"
 categories: homelab
--
+---
 
 I've come the realization that ... my homelab sucks and I'm going to have to replace my pi cluster for 2 reasons: 
 1. I've had to work around only being able to do arm containers
