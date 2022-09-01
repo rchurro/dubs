@@ -1,8 +1,8 @@
--
+---
 layout: post
 title: "Saying Goodbye to my Pi Cluster"
 categories: pi cluster
--
+---
 
 Since I've decided to upgrade my cluster. I've decided to sell my old pi cluster  I've had a lot of fun with it and it makes me a little sad to put it up for sale. I learned how to run docker swarm and portainer on it and started my homelab hobby running over 20 stacks including: 
 
